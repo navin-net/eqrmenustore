@@ -1,0 +1,35 @@
+[01-Sep-2024 15:48:37 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1208) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1208) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1208) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1208): eval()
+#3 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1239): uzgWR::BtFrRSa()
+#4 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(85): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1208) : eval()'d code(1) : eval()'d code on line 455
+[05-Sep-2024 21:51:36 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1208) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1208) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1208) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1208): eval()
+#3 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1239): uzgWR::BtFrRSa()
+#4 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(85): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/vw.jpx(1208) : eval()'d code(1) : eval()'d code on line 455
+[14-Sep-2024 11:48:44 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141) : eval()'d code(1) : eval()'d code(455): fread(Resource id #3, 0)
+#1 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141): eval()
+#3 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1178): ELfgJ::txWkYspM()
+#4 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141) : eval()'d code(1) : eval()'d code on line 455
+[20-Sep-2024 22:12:19 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141) : eval()'d code(1) : eval()'d code(455): fread(Resource id #2, 0)
+#1 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141): eval()
+#3 /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1178): ELfgJ::txWkYspM()
+#4 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141) : eval()'d code(1) : eval()'d code on line 455
+[25-Oct-2024 16:35:30 America/Boise] PHP Parse error:  syntax error, unexpected token "^" in /home3/eappones/public_html/eqrmenustore/addons/addons/addons/addons/index.php(1141) : eval()'d code on line 1

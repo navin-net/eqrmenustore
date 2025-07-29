@@ -1,0 +1,9 @@
+[10-Sep-2024 03:39:19 PRC] PHP Fatal error:  Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, bool given in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/PACE/PACE/ctTKIbC.png(964) : eval()'d code(1) : eval()'d code:604
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/PACE/PACE/ctTKIbC.png(964) : eval()'d code(1) : eval()'d code(604): fwrite(false, '<?php $TslHm /*...')
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/PACE/PACE/ctTKIbC.png(964) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/PACE/PACE/ctTKIbC.png(964): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/PACE/PACE/ctTKIbC.png(998): vuGm::NSvAmMT()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/PACE/PACE/index.php(1): require_once('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/PACE/PACE/ctTKIbC.png(964) : eval()'d code(1) : eval()'d code on line 604

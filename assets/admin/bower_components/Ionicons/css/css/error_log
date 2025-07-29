@@ -1,0 +1,18 @@
+[18-Sep-2024 09:59:16 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(973) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(973) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(973) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(973): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(1019): tFN::jMKBGqs()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/index.php(1): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(973) : eval()'d code(1) : eval()'d code on line 455
+[24-Oct-2024 18:43:19 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(973) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(973) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(973) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(973): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(1019): tFN::jMKBGqs()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/index.php(1): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/Ionicons/css/css/MREKBAghskjVYN.mov(973) : eval()'d code(1) : eval()'d code on line 455

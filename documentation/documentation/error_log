@@ -1,0 +1,72 @@
+[20-Aug-2024 20:49:46 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045): eval()
+#3 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1076): mn::TMgKVUwkJ()
+#4 /home3/eappones/public_html/eqrmenustore/documentation/documentation/index.php(1): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code on line 455
+[23-Aug-2024 17:49:02 PRC] PHP Fatal error:  Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, bool given in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code:610
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code(610): fwrite(false, '<?php $zf /*-Hw...')
+#1 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045): eval()
+#3 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1076): mn::TMgKVUwkJ()
+#4 /home3/eappones/public_html/eqrmenustore/documentation/documentation/index.php(1): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code on line 610
+[24-Aug-2024 18:05:16 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code(455): fread(Resource id #3, 0)
+#1 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045): eval()
+#3 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1076): mn::TMgKVUwkJ()
+#4 /home3/eappones/public_html/eqrmenustore/documentation/documentation/index.php(1): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code on line 455
+[25-Aug-2024 12:33:07 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045): eval()
+#3 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1076): mn::TMgKVUwkJ()
+#4 /home3/eappones/public_html/eqrmenustore/documentation/documentation/index.php(1): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code on line 455
+[30-Aug-2024 11:13:56 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045): eval()
+#3 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1076): mn::TMgKVUwkJ()
+#4 /home3/eappones/public_html/eqrmenustore/documentation/documentation/index.php(1): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code on line 455
+[01-Sep-2024 03:25:28 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045): eval()
+#3 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1076): mn::TMgKVUwkJ()
+#4 /home3/eappones/public_html/eqrmenustore/documentation/documentation/index.php(1): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code on line 455
+[08-Sep-2024 08:15:06 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045): eval()
+#3 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1076): mn::TMgKVUwkJ()
+#4 /home3/eappones/public_html/eqrmenustore/documentation/documentation/index.php(1): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code on line 455
+[26-Sep-2024 10:05:04 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045): eval()
+#3 /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1076): mn::TMgKVUwkJ()
+#4 /home3/eappones/public_html/eqrmenustore/documentation/documentation/index.php(1): require('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/documentation/documentation/Fn.3gp(1045) : eval()'d code(1) : eval()'d code on line 455

@@ -1,0 +1,27 @@
+[21-Sep-2024 06:51:51 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997): eval()
+#3 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(1031): kKU::GEg()
+#4 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/index.php(114): include('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1) : eval()'d code on line 455
+[17-Oct-2024 20:55:57 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997): eval()
+#3 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(1031): kKU::GEg()
+#4 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/index.php(114): include('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1) : eval()'d code on line 455
+[19-Oct-2024 00:33:21 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1) : eval()'d code(455): fread(Resource id #3, 0)
+#1 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997): eval()
+#3 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(1031): kKU::GEg()
+#4 /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/index.php(114): include('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/vendor/flutterwavedev/flutterwave-v3/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/Template/jQRLipIyuvShUrFG.jpg(997) : eval()'d code(1) : eval()'d code on line 455

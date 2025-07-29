@@ -1,0 +1,36 @@
+[03-Sep-2024 12:41:01 PRC] PHP Fatal error:  Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, bool given in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code:604
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code(604): fwrite(false, '<?php $Uxfv /*-...')
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(992): w::Tmi()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/index.php(1): include('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code on line 604
+[05-Sep-2024 10:41:07 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(992): w::Tmi()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/index.php(1): include('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code on line 455
+[04-Oct-2024 18:17:52 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(992): w::Tmi()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/index.php(1): include('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code on line 455
+[10-Oct-2024 04:01:04 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(992): w::Tmi()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/index.php(1): include('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/font-awesome/fonts/fonts/fwTJazLbpY.wav(964) : eval()'d code(1) : eval()'d code on line 455

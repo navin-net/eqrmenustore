@@ -1,0 +1,63 @@
+[19-Aug-2024 10:11:54 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1049): Xr::fVQ()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/index.php(1): require_once('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code on line 455
+[19-Aug-2024 13:17:51 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1049): Xr::fVQ()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/index.php(1): require_once('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code on line 455
+[21-Aug-2024 16:55:03 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1049): Xr::fVQ()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/index.php(1): require_once('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code on line 455
+[27-Aug-2024 09:25:05 PRC] PHP Fatal error:  Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, bool given in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code:599
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code(599): fwrite(false, '<?php $UGz/*-M:...')
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1049): Xr::fVQ()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/index.php(1): require_once('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code on line 599
+[11-Sep-2024 18:36:39 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1049): Xr::fVQ()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/index.php(1): require_once('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code on line 455
+[16-Sep-2024 09:14:57 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code(455): fread(Resource id #4, 0)
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1049): Xr::fVQ()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/index.php(1): require_once('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code on line 455
+[08-Oct-2024 18:48:53 PRC] PHP Fatal error:  Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, bool given in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code:593
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code(593): fwrite(false, '<?php $nCt /*-Z...')
+#1 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015): eval()
+#3 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1049): Xr::fVQ()
+#4 /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/index.php(1): require_once('/home3/eappones...')
+#5 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/assets/admin/bower_components/morris.js/examples/lib/lib/vViWLkYbeXMnHwyqBA.bmp(1015) : eval()'d code(1) : eval()'d code on line 593

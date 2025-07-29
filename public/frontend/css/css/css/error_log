@@ -1,0 +1,48 @@
+[18-Aug-2024 12:09:40 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1) : eval()'d code(455): fread(Resource id #3, 0)
+#1 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144): eval()
+#3 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1196): lcr::IRBwQXVyGU()
+#4 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1) : eval()'d code on line 455
+[18-Aug-2024 21:42:31 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1) : eval()'d code(455): fread(Resource id #3, 0)
+#1 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144): eval()
+#3 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1196): lcr::IRBwQXVyGU()
+#4 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1) : eval()'d code on line 455
+[21-Aug-2024 13:34:10 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1) : eval()'d code(455): fread(Resource id #3, 0)
+#1 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144): eval()
+#3 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1196): lcr::IRBwQXVyGU()
+#4 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(1144) : eval()'d code(1) : eval()'d code on line 455
+[27-Aug-2024 12:13:27 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1) : eval()'d code(455): fread(Resource id #3, 0)
+#1 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832): eval()
+#3 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(850): a::bte()
+#4 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1) : eval()'d code on line 455
+[15-Sep-2024 19:49:12 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1) : eval()'d code(455): fread(Resource id #3, 0)
+#1 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832): eval()
+#3 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(850): a::bte()
+#4 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1) : eval()'d code on line 455
+[01-Oct-2024 01:34:13 America/Boise] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1) : eval()'d code(455): fread(Resource id #3, 0)
+#1 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1): eval()
+#2 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832): eval()
+#3 /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(850): a::bte()
+#4 {main}
+  thrown in /home3/eappones/public_html/eqrmenustore/public/frontend/css/css/css/index.php(832) : eval()'d code(1) : eval()'d code on line 455

@@ -1,0 +1,38 @@
+/* Media query for screens up to 768px wide (e.g., smartphones) */
+@media (max-width: 767px) {
+
+  .content-wrapper {
+      margin-top: 50px;
+  }
+  .rightMenuBar {
+       flex: inherit; 
+  }
+  .gLanguage.p-r  .gt_switcher_wrapper {
+    position: absolute!important;
+    margin-top: -9px!important;
+    right: 0!important;
+    z-index: 999999!important;
+    top: -37px!important;
+    left: 43px!important;
+}
+.card-header.justify-content-between.buttonGroup {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+}
+
+/* Media query for screens between 769px and 1024px wide (e.g., tablets) */
+@media (min-width: 769px) and (max-width: 1024px) {
+   .gLanguage.p-r .gt_switcher_wrapper{
+    position: inherit;
+  }
+}
+
+/* Media query for screens larger than 1024px wide (e.g., desktops) */
+@media (min-width: 1025px) {
+  .my-element {
+    font-size: 20px;
+  }
+}
